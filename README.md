@@ -1,2 +1,2 @@
-# samcal
+# calculatorNew
 Created with CodeSandbox
